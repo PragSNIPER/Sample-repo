@@ -16,6 +16,6 @@ The time we greeted you.
 
 ## Example usage
 
-uses: actions/hello-world-javascript-action@v1.1
+uses: actions/Sample-repo@v1.1
 with:
   who-to-greet: 'Praga the Auto enthusiast'
